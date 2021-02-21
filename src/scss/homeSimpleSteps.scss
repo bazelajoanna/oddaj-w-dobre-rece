@@ -1,0 +1,40 @@
+@import '../scss/settings/colors';
+
+.home-simple-steps {
+    background: #F0F1F1 0% 0% no-repeat padding-box;
+    width: 100%;
+    height: 325px;
+}
+
+.home-simple-steps__content {
+    display: flex;
+    justify-content: center;
+}
+
+.home-simple-steps__column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 86px 0 86px;
+}
+
+.home-simple-steps__header {
+    font-size: 18px;
+    line-height: 24px;
+    color: $font-color;
+    margin-top: 7px;
+    margin-bottom: 8px;
+}
+
+.home-simple-steps__line {
+    width: 70px;
+    border: 1px solid #707070;
+    margin-bottom: 8px;
+
+}
+
+.home-simple-steps__description {
+    color: $font-color;
+    text-align: center;
+}

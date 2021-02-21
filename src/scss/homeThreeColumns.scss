@@ -1,0 +1,51 @@
+@import '../scss/settings/colors';
+
+.home-three-columns {
+    background: yellow url('../assets/3\ Columns\ Background@2x.png') repeat fixed center;
+    width: 100%;
+}
+
+.home-three-columns__content {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 47px 0 86px 0;
+}
+
+.home-three-columns__column {
+    width: 334px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home-three-columns__column:nth-child(2) {
+    margin: 0 286px 0 286px;
+}
+
+.home-three-columns__number {
+    color: #5E5322;
+    font-size: 90px;
+    line-height: 122px;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
+.home-three-columns__item {
+    text-transform: uppercase;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: -0.36px;
+    color: $font-color;
+    margin-bottom: 28px;
+}
+
+.home-three-columns__decsription {
+    color: $font-color;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 300;
+    letter-spacing: -0.32px;
+    text-align: center;
+}
+

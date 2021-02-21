@@ -1,0 +1,22 @@
+@import '../scss/settings/colors';
+
+.home-simple-steps-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 55px;
+}
+
+.home-simple-steps-text__header {
+    font-size: 38px;
+    line-height: 55px;
+    letter-spacing: -0.76px;
+    color: $font-color;
+    margin-bottom: 25px;
+}
+
+.home-simple-steps-text__decoration {
+    width: 253px;
+    margin-bottom: 34px;
+}

@@ -1,0 +1,47 @@
+@import '../scss/settings/colors';
+
+.home-start-helping {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 275px;
+    margin-bottom: 271px;
+}
+
+.home-start-helping__text {
+    font-size: 38px;
+    line-height: 55px;
+    color: $font-color;
+    text-align: center;
+    letter-spacing: -0.76px;
+}
+
+.home-start-helping__decoration {
+    width: 253px;
+    height: 33px;
+    margin: 25px 0 65px 0;
+}
+
+.home-start-helping__boxes {
+    display: flex;
+}
+
+.home-start-helping__box-text {
+    font-size: 36px;
+    line-height: 45px;
+    font-weight: 300;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: $font-color;
+    text-align: center;
+}
+
+.home-start-helping__box {
+    width: 310px;
+    height: 120px;
+    border: 0.75px solid $font-color;
+    margin-right: 44px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

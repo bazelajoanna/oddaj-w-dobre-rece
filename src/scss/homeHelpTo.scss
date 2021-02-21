@@ -1,0 +1,116 @@
+@import '../scss/settings/colors';
+
+.home-help-to__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border: 0.5px solid transparent;
+}
+
+.home-help-to__header {
+    font-size: 38px;
+    line-height: 55px;
+    color: $font-color;
+    letter-spacing: 0.76px;
+    margin: 70px 0 25px 0;
+}
+
+.home-help-to__decoration {
+    width: 253px;
+    height: 33px;
+}
+
+.home-help-to__columns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.home-help-to__column {
+    font-size: 24px;
+    line-height: 24px;
+    margin: 62px 75px 80px 75px;
+    border: 0.75px solid transparent;
+    padding: 23px 42px 23px 42px;
+}
+
+.home-help-to__column--active {
+    border: 0.75px solid $font-color;
+}
+
+.home-help-to__description {
+    color: $font-color;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 66px;
+}
+
+.home-help-to__description {
+    width: 640px;
+    height: 94px;
+    border: 0.5px solid transparent;
+}
+
+.home-help-to__description-text {
+    font-size: 22px;
+    line-height: 30px;
+    color: $font-color;
+    margin-bottom: 62px;
+}
+
+.home-help-to__list-container {
+    height: 375px;
+    border: 0.5px solid transparent;
+}
+
+.home-help-to__list {
+    width: 1344px;
+    color: $font-color;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 34px;
+}
+
+.home-help-to__name {
+    font-size: 26px;
+    line-height: 31px;
+    font-weight: 300;
+    margin-bottom: 6px;
+}
+
+.home-help-to__goal {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 300;
+    margin-bottom: 31px;
+}
+
+.home-help-to__items {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 300;
+    align-self: center;
+}
+
+.home-help-to__pages {
+    display: flex;
+    color: $font-color;
+    justify-self: end;
+}
+
+.home-help-to__pages-numbers {
+    margin: 63px 43px 0 37px;
+    border: 1px solid transparent;
+    padding: 13px 15px 13px 15px;
+    cursor: pointer;
+    height: 23px;
+    font-size: 18px;
+}
+
+.home-help-to__pages-numbers--active {
+    border: 1px solid #707070;
+}

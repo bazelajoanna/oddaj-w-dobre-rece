@@ -1,0 +1,24 @@
+@import '../scss/settings/colors';
+
+
+.home-menu {
+    margin: 34px 0 219px 0;
+}
+
+.home-menu__text {
+    margin-left: 55px;
+    color: $font-color;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.home-menu__text:nth-child(2) {
+    margin-left: 35px;
+}
+
+.home-menu__start {
+    padding: 9px 20px 9px 20px;
+    margin-left: 0;
+    border: 0.75px solid $font-color;
+    ;
+}

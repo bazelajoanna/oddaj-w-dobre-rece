@@ -1,0 +1,19 @@
+@import '../scss/settings/colors';
+
+.home-give-things {
+    margin: 35px 0 93px 0;
+    border: 0.75px solid $font-color;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-give-things__text {
+    font-size: 36px;
+    line-height: 45px;
+    color: $font-color;
+    text-transform: uppercase;
+    font-weight: 300;
+    padding: 13px 93px 13px 93px;
+    text-decoration: none;
+}
