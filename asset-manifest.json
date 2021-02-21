@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/oddaj-w-dobre-rece/static/css/main.a9a9fd3c.chunk.css",
+    "main.js": "/oddaj-w-dobre-rece/static/js/main.46cf8607.chunk.js",
+    "main.js.map": "/oddaj-w-dobre-rece/static/js/main.46cf8607.chunk.js.map",
+    "runtime-main.js": "/oddaj-w-dobre-rece/static/js/runtime-main.add0fa03.js",
+    "runtime-main.js.map": "/oddaj-w-dobre-rece/static/js/runtime-main.add0fa03.js.map",
+    "static/js/2.fd098abf.chunk.js": "/oddaj-w-dobre-rece/static/js/2.fd098abf.chunk.js",
+    "static/js/2.fd098abf.chunk.js.map": "/oddaj-w-dobre-rece/static/js/2.fd098abf.chunk.js.map",
+    "index.html": "/oddaj-w-dobre-rece/index.html",
+    "static/css/main.a9a9fd3c.chunk.css.map": "/oddaj-w-dobre-rece/static/css/main.a9a9fd3c.chunk.css.map",
+    "static/js/2.fd098abf.chunk.js.LICENSE.txt": "/oddaj-w-dobre-rece/static/js/2.fd098abf.chunk.js.LICENSE.txt",
+    "static/media/homeThreeColumns.scss": "/oddaj-w-dobre-rece/static/media/3 Columns Background@2x.8ac46674.png",
+    "static/media/homeContact.scss": "/oddaj-w-dobre-rece/static/media/Instagram.5b663cf3.svg",
+    "static/media/Decoration.aad75271.svg": "/oddaj-w-dobre-rece/static/media/Decoration.aad75271.svg",
+    "static/media/Home-Hero-Image.0c4f237f.jpg": "/oddaj-w-dobre-rece/static/media/Home-Hero-Image.0c4f237f.jpg",
+    "static/media/Icon-1.bd3d092a.svg": "/oddaj-w-dobre-rece/static/media/Icon-1.bd3d092a.svg",
+    "static/media/Icon-2.cfac69a1.svg": "/oddaj-w-dobre-rece/static/media/Icon-2.cfac69a1.svg",
+    "static/media/Icon-3.564c1731.svg": "/oddaj-w-dobre-rece/static/media/Icon-3.564c1731.svg",
+    "static/media/Icon-4.f1b3fb6d.svg": "/oddaj-w-dobre-rece/static/media/Icon-4.f1b3fb6d.svg",
+    "static/media/homeAboutUs.scss": "/oddaj-w-dobre-rece/static/media/People.2fa041c6.jpg",
+    "static/media/Signature.8f2a001d.svg": "/oddaj-w-dobre-rece/static/media/Signature.8f2a001d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.add0fa03.js",
+    "static/js/2.fd098abf.chunk.js",
+    "static/css/main.a9a9fd3c.chunk.css",
+    "static/js/main.46cf8607.chunk.js"
+  ]
+}
