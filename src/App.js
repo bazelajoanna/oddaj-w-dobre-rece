@@ -11,10 +11,10 @@ import Registration from './components/Registration';
 function App() {
   return (
     <Router>
-      <Route exact path='/' component={Home}></Route>
-      <Route exact path='/logowanie' component={Login}></Route>
-      <Route exact path='/rejestracja' component={Registration}></Route>
-      <Route exact path='/wylogowano' component={Logout}></Route>
+      <Route exact path={process.env.PUBLIC_URL + '/'} component={Home}></Route>
+      <Route exact path={process.env.PUBLIC_URL + '/logowanie'} component={Login}></Route>
+      <Route exact path={process.env.PUBLIC_URL + '/rejestracja'} component={Registration}></Route>
+      <Route exact path={process.env.PUBLIC_URL + '/wylogowano'} component={Logout}></Route>
     </Router>
   );
 }
