@@ -10,7 +10,7 @@ export default function HomeHelpTo() {
 
 
 
-    const API = 'http://localhost:5000';
+    const API = `${process.env.PUBLIC_URL + '/db.json'}`;
     useEffect(() => {
         fetch(`${API}/data`)
             .then(response => response.json())

@@ -15,10 +15,10 @@ const HomeStartHelping = () => {
             <img src={decoration} className='home-start-helping__decoration' alt='decoration'></img>
             <div className='home-start-helping__boxes'>
                 <div className='home-start-helping__box'>
-                    <Link to='./logowanie' className='home-start-helping__box-text'>Oddaj<br/>rzeczy</Link>
+                    <Link to={process.env.PUBLIC_URL + '/logowanie'} className='home-start-helping__box-text'>Oddaj<br/>rzeczy</Link>
                 </div>
                 <div className='home-start-helping__box'>
-                    <Link to='./logowanie' className='home-start-helping__box-text'>Zorganizuj<br/>zbiórkę</Link>
+                    <Link to={process.env.PUBLIC_URL + '/logowanie'} className='home-start-helping__box-text'>Zorganizuj<br/>zbiórkę</Link>
                 </div>
             </div>
         </div>
