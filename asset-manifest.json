@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/oddaj-w-dobre-rece/static/css/main.a9a9fd3c.chunk.css",
-    "main.js": "/oddaj-w-dobre-rece/static/js/main.fa52237b.chunk.js",
-    "main.js.map": "/oddaj-w-dobre-rece/static/js/main.fa52237b.chunk.js.map",
+    "main.js": "/oddaj-w-dobre-rece/static/js/main.edd2da58.chunk.js",
+    "main.js.map": "/oddaj-w-dobre-rece/static/js/main.edd2da58.chunk.js.map",
     "runtime-main.js": "/oddaj-w-dobre-rece/static/js/runtime-main.add0fa03.js",
     "runtime-main.js.map": "/oddaj-w-dobre-rece/static/js/runtime-main.add0fa03.js.map",
     "static/js/2.fd098abf.chunk.js": "/oddaj-w-dobre-rece/static/js/2.fd098abf.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.add0fa03.js",
     "static/js/2.fd098abf.chunk.js",
     "static/css/main.a9a9fd3c.chunk.css",
-    "static/js/main.fa52237b.chunk.js"
+    "static/js/main.edd2da58.chunk.js"
   ]
 }
